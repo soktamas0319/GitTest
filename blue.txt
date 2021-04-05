@@ -1,2 +1,3 @@
 ez  egy kék txt
 második sor
+harmadik sor
